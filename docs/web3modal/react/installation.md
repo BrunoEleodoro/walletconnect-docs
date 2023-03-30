@@ -7,7 +7,7 @@ Every project using WalletConnect SDKs (including Web3Modal) needs to obtain `pr
 ## Add Packages
 
 ```bash npm2yarn
-npm install @web3modal/ethereum @web3modal/react wagmi ethers@^5
+ npm install @web3modal/ethereum @web3modal/react wagmi ethers@"<6"
 ```
 
 ## Implementation
